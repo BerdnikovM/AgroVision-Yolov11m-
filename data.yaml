@@ -1,0 +1,8 @@
+names:
+  - crop
+  - weed
+nc: 2
+
+train: dataset/images/train  # Путь к тренировочным изображениям
+val: dataset/images/val      # Путь к валидационным изображениям
+test: dataset/images/test    # Путь к тестовым изображениям
