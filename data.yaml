@@ -3,6 +3,6 @@ names:
   - weed
 nc: 2
 
-train: dataset/images/train  # Путь к тренировочным изображениям
-val: dataset/images/val      # Путь к валидационным изображениям
-test: dataset/images/test    # Путь к тестовым изображениям
+train: E:/progs/AgroVision/dataset/images/train  # Путь к тренировочным изображениям
+val: E:/progs/AgroVision/dataset/images/val      # Путь к валидационным изображениям
+test: E:/progs/AgroVision/dataset/images/test    # Путь к тестовым изображениям
